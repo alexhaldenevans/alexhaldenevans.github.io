@@ -2,7 +2,7 @@
     {
         "animalID":1,
         "animalName":"Holly",
-        "animalPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
+        "animalPic":"https://alexhaldenevans.github.io/JsonData/images/dog.webp",
         "animalAge":"8",
         "animalType":"dog",
         "animalBreed":"Cross Breed Collie"
