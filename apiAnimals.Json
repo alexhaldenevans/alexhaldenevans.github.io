@@ -1,7 +1,7 @@
 [
     {
         "animalID":1,
-        "animalName":"Falcor",
+        "animalName":"Holly",
         "animalPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
         "animalAge":"8",
         "animalType":"dog",
