@@ -10,7 +10,7 @@
     {
             "animalID":2,
         "animalName":"Jemima",
-        "animalPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
+        "animalPic":"https://alexhaldenevans.github.io/JsonData/images/alpaca.webp",
         "animalAge":"6",
         "animalType":"dog",
         "animalBreed":"Cross Breed Sproodle"
@@ -18,7 +18,7 @@
     {
             "animalID":3,
         "animalName":"Garnet",
-        "animalPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
+        "animalPic":"https://alexhaldenevans.github.io/JsonData/images/cat.webp",
         "animalAge":"15",
         "animalType":"cat",
         "animalBreed":"tabby moggy"
@@ -26,17 +26,11 @@
     {
             "animalID":4,
         "animalName":"Tabby",
-        "animalPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
+        "animalPic":"https://alexhaldenevans.github.io/JsonData/images/mouse.webp",
         "animalAge":"11",
         "animalType":"cat",
         "animalBreed":"tabby moggy"
     },
     {
-            "animalID":5,
-        "animalName":"Moonlight",
-        "animalPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
-    }
+
 ]
