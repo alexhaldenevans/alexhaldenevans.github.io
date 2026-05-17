@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Campus Coffee Bar",
+    "type": "Coffee, snacks and sandwiches",
+    "priceRange": "£",
+    "distance": "2 minutes from Computing Building",
+    "description": "A quick stop for hot drinks, pastries and light lunches between Welcome Week sessions.",
+    "bestFor": "Coffee before lectures",
+    "imageUrl": "https://images.unsplash.com/photo-1559001724-fbad036dbc9e?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Union Kitchen",
+    "type": "Hot meals and student deals",
+    "priceRange": "££",
+    "distance": "5 minutes from Computing Building",
+    "description": "A student-friendly eatery serving hot meals, vegetarian options and affordable lunch deals.",
+    "bestFor": "Lunch with new course mates",
+    "imageUrl": "https://images.unsplash.com/photo-1744104135578-6768f2061be1?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Library Café",
+    "type": "Drinks, cakes and quiet study snacks",
+    "priceRange": "£",
+    "distance": "Inside the Library Hub",
+    "description": "A quieter café space for students who want a drink or snack while studying.",
+    "bestFor": "Study breaks",
+    "imageUrl": "https://images.unsplash.com/photo-1471970471555-19d4b113e9ed?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "The Courtyard Grill",
+    "type": "Burgers, wraps and fries",
+    "priceRange": "££",
+    "distance": "7 minutes from Computing Building",
+    "description": "A casual food spot with filling meals, ideal after a long lab session.",
+    "bestFor": "Bigger meals",
+    "imageUrl": "https://images.unsplash.com/photo-1680765195080-03dd01931cac?q=80&w=889&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Green Bowl",
+    "type": "Salads, smoothies and vegetarian meals",
+    "priceRange": "££",
+    "distance": "6 minutes from Computing Building",
+    "description": "A healthier option with salads, plant-based meals and smoothies.",
+    "bestFor": "Vegetarian and lighter meals",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "City Pizza Stop",
+    "type": "Pizza and takeaway food",
+    "priceRange": "£££",
+    "distance": "10 minutes from campus",
+    "description": "A nearby takeaway-style option for students staying late after society events.",
+    "bestFor": "Evening food",
+    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
